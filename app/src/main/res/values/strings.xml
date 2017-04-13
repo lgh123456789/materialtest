@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaterialTest</string>
+    <string name="task">Task</string>
+    <string name="call">Call</string>
+    <string name="friends">Friends</string>
+    <string name="location">Location</string>
+    <string name="mail">Mail</string>
+    <string name="tony_greeen">Tony Greeen</string>
+    <string name="tonygreendev_gmail_com">tonygreendev@gmail.com</string>
+    <string name="backup">Backup</string>
+    <string name="delete">Delete</string>
+    <string name="setting">Setting</string>
+    <string name="lghdegugeyouxiang_gmail_com">lghdegugeyouxiang_gmail_com</string>
+</resources>
